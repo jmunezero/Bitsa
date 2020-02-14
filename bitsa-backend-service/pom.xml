@@ -8,11 +8,11 @@
         <version>2.2.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>bitsa.backend</groupId>
-    <artifactId>merchant-module</artifactId>
+    <groupId>smart.booking</groupId>
+    <artifactId>bitsa-backend-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>merchant-module</name>
-    <description>Demo project for Spring Boot</description>
+    <name>bitsa-backend-service</name>
+    <description>All in one Booking system</description>
 
     <properties>
         <java.version>1.8</java.version>
